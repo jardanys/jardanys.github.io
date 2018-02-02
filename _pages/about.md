@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Data Science for everyone"
+excerpt: "This blog covers topics in Data Science and general developments in Artificial Intelligence and Machine Learning"
 author_profile: true
 redirect_from: 
   - /about/
