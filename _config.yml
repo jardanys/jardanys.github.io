@@ -11,9 +11,9 @@ title                    : "Data Science Blog"
 title_separator          : "-"
 name                     : &name "Nestor Jardany Serrano"
 description              : &description "Data Scientist | R and Python developer| BigData | Passionate about Artificial Intelligence and Machine Learning"
-url                      : https://nestorserrano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jardanys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jardanys/nestorserrano.github.io"
+repository               : "jardanys/jardanys.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Camilo Aguilar"
+  name             : "Nestor Jardany Serrano R"
   avatar           : "ProfilePaine.png"
   bio              : "Data Scientist | R and Python developer | BigData | Passionate about Artificial Intelligence and Machine Learning"
   location         : "Bogotá - Colombia"
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "CamiloAguilar"
+  github           : "jardanys"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "aguilarcamiloa"
+  linkedin         : "nestorjardanyserranorojas"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
