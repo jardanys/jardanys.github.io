@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "Bogotá DC - Colombia"
-title                    : "Data Science Blog"
+title                    : "Data Science"
 title_separator          : "-"
 name                     : &name "Nestor Jardany Serrano"
-description              : &description "Data Scientist | R and Python developer| BigData | Passionate about Artificial Intelligence and Machine Learning"
+description              : &description "Head Analytics | Data Scientist | R and Python | BigData | Passionate about Artificial Intelligence and Machine Learning"
 url                      : https://jardanys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jardanys/jardanys.github.io"
@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Nestor Jardany Serrano R"
-  avatar           : "ProfilePaine.png"
-  bio              : "Data Scientist | R and Python developer | BigData | Passionate about Artificial Intelligence and Machine Learning"
+  avatar           : "avatar.png"
+  bio              : "Head Analytics | Data Scientist | R and Python developer | BigData | Passionate about Artificial Intelligence and Machine Learning"
   location         : "Bogotá - Colombia"
   employer         : "EasyData"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
